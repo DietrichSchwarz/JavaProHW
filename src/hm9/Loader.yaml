@@ -1,0 +1,7 @@
+FILE: src/hm9/log/log.txt
+
+LEVEL: DEBUG
+
+MAX-SIZE: 3400
+
+FORMAT: .txt
